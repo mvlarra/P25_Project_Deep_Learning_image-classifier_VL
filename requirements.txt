@@ -7,3 +7,5 @@ jupyter
 openpyxl
 pip
 xlrd
+tensorflow
+keras.preprocessing

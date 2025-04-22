@@ -9,3 +9,4 @@ pip
 xlrd
 tensorflow
 keras.preprocessing
+plotly

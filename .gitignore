@@ -29,6 +29,7 @@ venv/
 *.zip
 #*.bak
 *.jpg
+*.keras
 
 
 # Puedes ajustar esto según tu proyecto. Si quieres subir tus datasets .csv, 

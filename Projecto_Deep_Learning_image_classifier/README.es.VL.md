@@ -1,5 +1,3 @@
----
-
 ## ✅ Proyecto Personal / Implementación Final
 
 > *A continuación se presenta el resumen de la implementación propia desarrollada por Valentina Larrañaga.*

@@ -23,6 +23,12 @@ venv/
 # Archivos creados por VS Code
 .vscode/
 
+
+# Ignorar carpetas locales con datasets o contenido generado
+data/
+content/
+
+
 # Archivos grandes o sensibles
 #*.csv
 #*.xlsx
